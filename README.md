@@ -1,4 +1,8 @@
-This simple arithmetic program in Java, as seen in the brief Akeraioi.demo below, reads two integers from the console and returns a result based on the value of the first number. 
+## Demo
+
+![Παρουσίαση Εφαρμογής](Akeraioi.gif)
+
+This simple arithmetic program in Java, as seen in the brief Akeraioi.demo, reads two integers from the console and returns a result based on the value of the first number. 
 If the first number is positive, the program returns the sum of the two numbers. Otherwise, it returns the difference of the second from the first.
 
 Functionality:
@@ -46,8 +50,3 @@ Suggested improvements:
 • Closing the Scanner: add after use to avoid resource leaks.
 
 • Input validation: handle InputMismatchException and recall until a valid value.
-
-## Demo
-
-![Παρουσίαση Εφαρμογής](Akeraioi.gif)
-
